@@ -102,7 +102,7 @@ endmodule
 ![Screenshot (21)](https://github.com/user-attachments/assets/efb7f457-7e2a-4fcf-ae19-4fec1d2ef4c2)
 
 ### Simulation Waveforms
-![Uploading Screenshot (22).png…]()
+![Screenshot (22)](https://github.com/user-attachments/assets/2ca65cac-a848-4124-a187-7d59aaeb4426)
 
 
 
